@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-""" Check if valid python code was entered """
+""" Check if valid python code was entered and `exec` this code """
 
 import ast
 import sys
